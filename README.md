@@ -13,12 +13,12 @@
 - GitLab
 ---
 ### Задания:
-#### 1. Создание базового дашборда продукта с ключевыми метриками
+#### [1. Создание базового дашборда продукта с ключевыми метриками](https://github.com/Vitochkasonik/Simulator_analitik/tree/main/Dashboards)
 Задача: построить realtime дашборд с продуктовыми метриками поверх таблиц в Clickhouse    
 Реализация: дашборды выполнены в Superset  
 
 ---
-•	Выполнен [дашборд с основными метриками по ленте новостей](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Feed_main%26users.jpg)    
+•	Выполнен [дашборд с основными метриками по ленте новостей](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Dashboards/Feed_main%26users.jpg)    
 
 На нём присутствуют:     
 - Аудиторные метрики — сколько активных пользователей было за конкретный период: день, неделю и месяц (DAU, WAU и MAU)
@@ -35,10 +35,10 @@
 Также реализован фильтр для быстрого выведения на дашборд информации по видам пользователей.   
   
 По дашборду есть варианты разгрузить дашборд, разбив данные на 2:
-на одном оставить только самые основные показатели - [так](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Feed_main.jpg)  
-на втором - уточнение характеристик аудитории - [так](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Feed_users_extra.jpg)
+на одном оставить только самые основные показатели - [так](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Dashboards/Feed_main.jpg)  
+на втором - уточнение характеристик аудитории - [так](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Dashboards/Feed_users_extra.jpg)
 
-•	Выполнен [дашборд по ленте новостей и мессенджеру](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Feed%26messages.jpg)  
+•	Выполнен [дашборд по ленте новостей и мессенджеру](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Dashboards/Feed%26messages.jpg)  
 который описывает взаимодействие двух сервисов — ленты и сообщений.  
 
 На дашборде содержатся ответы на вопросы:  
