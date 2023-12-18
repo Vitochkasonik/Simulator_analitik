@@ -19,4 +19,11 @@
 - [SQL запрос](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Product_metrics/Retention_2023_10_11.jpg)
 - [Визуализация](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Product_metrics/retention-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D1%8B-11-10-23_chart.jpg)
 
-- Даже визуально видно, что подавляющее большинство рассматриваемых пользователей больше в приложение не зашли.
+  Даже визуально видно, что подавляющее большинство рассматриваемых пользователей больше в приложение не зашли.
+  
+- Дополнительно можно посмотреть сравнение метрики Retention для когорты следующего дня, пришедшей в приложение также по рекламному трафику:
+  
+  [Сравнение Retention](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Product_metrics/retention-11-10%20%D0%B8%2012-10.jpg)
+  
+  Отличия в характере Retention отчётливо заметны, данная рекламная акция не оправдывает затрат на рекламу.
+  
