@@ -34,4 +34,6 @@
      
     [По географии](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Product_metrics/geografic.jpg)
   - Составляем SQL запрос и выводим список городов, пользователи из которых не смогли попасть в приложение 20.10.2023
+
+     [SQL запрос](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Product_metrics/SQL_cities.jpg)
   
