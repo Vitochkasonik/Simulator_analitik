@@ -37,3 +37,4 @@
 
      [SQL запрос](https://github.com/Vitochkasonik/Simulator_analitik/blob/main/Product_metrics/SQL_cities.jpg)
   
+### Основная идея: для ответов на подобные вопросы удобно использовать и BI-систему, и SQL запросы - оба инструмента дополняют возможности друг друга
